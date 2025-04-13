@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Education:
+🎓 
 - CS @ Columbia University
 - Math & CS @ Middlebury College
 
-🌱 Currently, I'm focusing on:
-- Researching domain-specific large language models (LLMs), and application of GNNs on knowledge graphs and ontology
-- Developing scalable, user-centric applications
+🧐
+- GNNs, knowledge graphs and ontology
+- Reinforcement Learning + LLMs
+- Agentic AI
 
-📫 Let's connect!
+📫 
 - Email: bl3092@columbia.edu
 - LinkedIn: [https://www.linkedin.com/in/sallyliubj/](https://www.linkedin.com/in/sallyliubj/)
