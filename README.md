@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 
+🎓 Education
 - CS @ Columbia University
-- Math & CS @ Middlebury College
+- Math & CS @ Middlebury College 
 
-🧐
+🧐 Interests
 - GNNs, knowledge graphs and ontology
 - Reinforcement Learning + LLMs
 - Agentic AI
 
-📫 
+📫 Contact
 - Email: bl3092@columbia.edu
 - LinkedIn: [https://www.linkedin.com/in/sallyliubj/](https://www.linkedin.com/in/sallyliubj/)
