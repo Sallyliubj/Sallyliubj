@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 CS @ Columbia University | Math & CS @ Middlebury College 
+🎓 DS & ML @ MIT | CS @ Columbia University | Math & CS @ Middlebury College 
 
-🧐 GNNs, knowledge graphs and ontology | Reinforcement Learning + LLMs | Agentic AI
+🧐 Agentic AI | GNNs | RL + LLM 
 
-📫 Email: bl3092@columbia.edu | LinkedIn: [https://www.linkedin.com/in/sallyliubj/](https://www.linkedin.com/in/sallyliubj/)
+📫 Email: sally921@mit.edu | LinkedIn: [https://www.linkedin.com/in/sallyliubj/](https://www.linkedin.com/in/sallyliubj/)
